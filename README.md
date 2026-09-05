@@ -1,8 +1,8 @@
-# DSAMotion — Animated DSA & System Design (plain React)
+# DSAMotion — Animated DSA & System Design 
 
 Standalone React + Vite + Tailwind CSS app. All lesson content lives in plain JSON
 files under `src/data/` (`topics.json`, `systemDesign.json`) — no framework-specific
-data layer, no TanStack.
+data layer.
 
 ## Run it
 
